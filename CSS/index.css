@@ -20,7 +20,7 @@ html{
 .LogIn{
     background: white;
     width: 90%;
-    height: 300px;
+    height: 350px;
     border-radius: 10px;
     border-style: solid;
     border-color: #00457a;
@@ -44,9 +44,17 @@ p{
 }
 
 #servece{
+    margin-top: 10%;
     font-size: 120%;
     width: 90%;
     height: 50%;
+    background: white;
+    color: white;
+}
+
+h1{
+    font-size: 130%;
+    margin-bottom: 3%;
 }
 
 .slideshow-container {
@@ -62,8 +70,8 @@ p{
 }
 
 .mySlides{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 13%;
+    margin-right: 13%;
 }
   
 .prev, .next {
